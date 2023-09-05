@@ -1,0 +1,6 @@
+D:\BIBLIOTECA PERSONAL\Programación\C shar\ManHole\ManHole.Model\bin\Debug\ManHole.Model.dll
+D:\BIBLIOTECA PERSONAL\Programación\C shar\ManHole\ManHole.Model\bin\Debug\ManHole.Model.pdb
+D:\BIBLIOTECA PERSONAL\Programación\C shar\ManHole\ManHole.Model\obj\Debug\ManHole.Model.csproj.AssemblyReference.cache
+D:\BIBLIOTECA PERSONAL\Programación\C shar\ManHole\ManHole.Model\obj\Debug\ManHole.Model.csproj.CoreCompileInputs.cache
+D:\BIBLIOTECA PERSONAL\Programación\C shar\ManHole\ManHole.Model\obj\Debug\ManHole.Model.dll
+D:\BIBLIOTECA PERSONAL\Programación\C shar\ManHole\ManHole.Model\obj\Debug\ManHole.Model.pdb
